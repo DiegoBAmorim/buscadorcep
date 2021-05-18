@@ -1,5 +1,7 @@
 # Projeto Buscador de Cep
-
+<p align="center">
+<img width=250 src="src/assets/to_Readme/telaAppCEP.gif" />
+</p>
 # Description
 Um app desenvolvido com a tecnologia ReactNative, 
 utilizando a Api da ViaCep. Para se obter dados dos CEP. 
